@@ -1,0 +1,1 @@
+# Including-Function-Factories-in-an-R-Package-Using-Collate
